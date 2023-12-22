@@ -1,2 +1,25 @@
 
 /* Your CSS Code here. */
+.holder{
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap;
+}
+.itemG{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	font-size: 50px
+}
+.itemR{
+	height: 100px;
+	width: 100px;
+	background-color: red;
+	font-size: 50px
+}
+.itemB{
+	height: 100px;
+	width: 100px;
+	background-color: blue;
+	font-size: 50px
+}
